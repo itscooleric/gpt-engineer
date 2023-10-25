@@ -1,0 +1,6 @@
+I want to make a discord bot with a few key capabilities:
+Key features:
+- Slippi Lookup: I give it a Slippi.gg connect code and it returns their rank info
+- Price History Lookup: I give it an amazon url and it returns amazon price history from somewhere lkike camel camel camel
+- Tracker.gg Monitor: in the backend it keeps a list of riot ids to track and it periodically checks tracker.gg for new games; once a new game is detected, it messages in the discord channel (or notifies however else)
+- VoiceMemo Transcription: I want to be able to upload a voice memo in mp4 format and it transcribes it using (preferably using offline model)
